@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalender</string>
+    <string name="current_time">Current Date : </string>
+    <string name="showCalender">Show Calender</string>
+</resources>
